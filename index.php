@@ -7,6 +7,13 @@
     <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
+<div class="nav-container">
+    <ul class="nav-list">
+        <li><a href="index.php">Home</a></li>
+        <li><a href="about.php"></a>About</li>
+        <li><a href="contact.php"></a>Contact</li>
+    </ul>
+</div>
 <div class="container"><h1>Welcome to Rosla</h1></div>
 </body>
 </html>
