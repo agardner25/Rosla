@@ -9,14 +9,11 @@ body {
     background: #f5f5f5;
 }
 
-.nav-container {
-    background-color: #333;
-    margin-bottom: 20px;
-}
-
 .nav-list {
     list-style-type: none;
     display: flex;
+    background-color: #333;
+    margin-bottom: 20px;
 }
 
 .nav-list li {
