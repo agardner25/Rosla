@@ -26,8 +26,8 @@ body {
 
 .nav-list li a {
     text-decoration: none;
-    color: #a0a0a0
-
+    color: #a0a0a0;
+    font-size: 26px;
 }
 
 .nav-list li a:hover {

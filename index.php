@@ -10,8 +10,8 @@
 <div class="nav-container">
     <ul class="nav-list">
         <li><a href="index.php">Home</a></li>
-        <li><a href="about.php"></a>About</li>
-        <li><a href="contact.php"></a>Contact</li>
+        <li><a href="about.php">About</a></li>
+        <li><a href="contact.php">Contact</a></li>
     </ul>
 </div>
 <div class="container"><h1>Welcome to Rosla</h1></div>
