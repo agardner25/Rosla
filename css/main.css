@@ -21,6 +21,10 @@ body {
     margin: 10px 20px;
 }
 
+.nav-list li h1 {
+    font-size: 30px;
+    color:#fff
+}
 .nav-list li a {
     text-decoration: none;
     color: #a0a0a0;

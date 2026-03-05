@@ -8,6 +8,7 @@
 </head>
 <body>
 <ul class="nav-list">
+    <li><h1>Rosla Technologies</h1></li>
     <li><a href="index.php">Home</a></li>
     <li><a href="about.php">About</a></li>
     <li><a href="contact.php">Contact</a></li>
